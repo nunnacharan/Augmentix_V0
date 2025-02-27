@@ -19,7 +19,7 @@ export const MessageInput = ({ onSubmit }) => {
             type="text"
             value={input}
             onChange={(e) => setInput(e.target.value)}
-            placeholder="Ask Bonobos..."
+            placeholder="Ask Augmentix..."
             className="flex-1 p-3 bg-transparent border-none outline-none text-gray-700 placeholder-gray-500"
           />
           <button

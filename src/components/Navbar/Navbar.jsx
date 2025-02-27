@@ -26,7 +26,7 @@ export const Navbar = () => {
       <div className="px-4 py-3 flex justify-between">
         <div className="flex items-center gap-2">
           <Bot className="w-6 h-6" />
-          <h1 className="text-xl font-bold">Bonobos v0.1</h1>
+          <h1 className="text-xl font-bold">Augmentix v0.1</h1>
         </div>
         <div className="text-sm bg-blue-700 px-3 py-1 rounded-full bg-opacity-50">
           Beta
